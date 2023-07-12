@@ -1,6 +1,6 @@
 
 /*simulador de calculadora de categoria en el deporte Remo*/
-
+/*Se que la funcion esta por asi decirlo de mas, ya que puedo agregar a los if esos mismos alert, pero queria agregarle una y no sabia cual */
 let edad = prompt("ingrese su edad");
 
 function dificultad(edad){
